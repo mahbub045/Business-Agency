@@ -1,0 +1,164 @@
+
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+
+	.menu ul li a{
+		padding: 0px 5px !important;
+}
+/*header end*/
+/*banner start*/
+	.banner{
+		padding: 80px 0 100px;
+}
+/*banner end*/
+/*about start*/
+	.about{
+		padding: 50px 0 60px;
+}
+	.about p {
+    	margin-bottom: 30px;
+}
+/*about end*/
+/*approach start*/
+	.approach{
+		padding: 60px 0;
+}
+	.custom_card{
+		padding: 0 25px;
+}
+/*approach end*/
+/*work start*/
+	.work{
+		padding: 60px 0 75px;
+}
+/*work end*/
+/*analysis start*/
+	.analysis{
+		padding: 60px 0;
+}
+	.arrow{
+		right: 45%;
+}
+/*analysis end*/
+/*touch start*/
+	.GIT{
+		padding: 50px 0;
+}
+/*touch end*/
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+	.menu ul li a{
+		padding: 0px 5px !important;
+}
+/*header end*/
+/*banner start*/
+	.banner{
+		padding: 80px 0 100px;
+}
+/*banner end*/
+/*about start*/
+	.about{
+		padding: 50px 0 60px;
+}
+	.about p {
+    	margin-bottom: 30px;
+}
+/*about end*/
+/*approach start*/
+	.approach{
+		padding: 60px 0;
+}
+	.custom_card{
+		padding: 0 25px;
+}
+/*approach end*/
+/*work start*/
+	.work{
+		padding: 60px 0 75px;
+}
+/*work end*/
+/*analysis start*/
+	.analysis{
+		padding: 60px 0;
+}
+	.arrow{
+		right: 46%;
+}
+/*analysis end*/
+/*touch start*/
+	.GIT{
+		padding: 50px 0;
+}
+/*touch end*/
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+	.menu ul li a{
+		padding: 0px 5px !important;
+}
+/*header end*/
+/*banner start*/
+	.banner{
+		padding: 80px 0 100px;
+}
+/*banner end*/
+/*about start*/
+	.about{
+		padding: 50px 0 60px;
+}
+	.about p {
+    	margin-bottom: 30px;
+}
+/*about end*/
+/*approach start*/
+	.approach{
+		padding: 60px 0;
+}
+	.custom_card{
+		padding: 0 25px;
+}
+/*approach end*/
+/*work start*/
+	.work{
+		padding: 60px 0 75px;
+}
+/*work end*/
+/*analysis start*/
+	.analysis{
+		padding: 60px 0;
+}
+	.arrow{
+		right: 46%;
+}
+	.reverse-collapse {
+    	top: -19%;
+    	right: 42.1%;
+}
+ /*analysis end*/
+ /*touch start*/
+	.GIT{
+		padding: 50px 0;
+}
+/*touch end*/
+ }
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*analysis start*/
+	.reverse-collapse {
+    	top: -19.8%;
+    	right: 44.2%;
+}
+/*analysis end*/
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+ }
